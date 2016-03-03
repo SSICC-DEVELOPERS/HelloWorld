@@ -2,5 +2,6 @@
 public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello, World!. Primer commit");
+		System.out.println("Hello, World!.");
 	}
 }
